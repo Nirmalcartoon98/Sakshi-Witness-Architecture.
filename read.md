@@ -68,3 +68,4 @@ else:
 If you use this architecture in your research, please cite:
 
 Parmar, N. G. (2025). The Sakshi Witness Loop: An Entropy-Guided Neuro-Symbolic Architecture for Self-Reflective Language Models.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14915409.svg)](https://doi.org/10.5281/zenodo.14915409)
